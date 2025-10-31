@@ -52,8 +52,6 @@ Integrate with database (JDBC/MySQL)
 
 Add fare calculation and seat map display
 
-🙋‍♂️ About Me
-I'm a beginner Java developer passionate about building real-world systems. This is my first modular project using multiple classes and realistic features. More systems like bank, hotel, airways, and train are coming soon!
 
 🙋‍♂️ About Me
 I'm a beginner Java developer passionate about building real-world systems. This is my first modular project using multiple classes and realistic features. More systems like bank, hotel, airways, and train are coming soon!
